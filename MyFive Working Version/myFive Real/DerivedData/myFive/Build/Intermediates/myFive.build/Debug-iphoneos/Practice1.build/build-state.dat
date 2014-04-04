@@ -1,0 +1,1171 @@
+TPractice1
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist
+cProcessPCH /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/EditInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/User.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/ViewInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive normal armv7s
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png Practice1/translucent2.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png Practice1/icon\ 58.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png Practice1/phone2.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png Practice1/hobo.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png Practice1/Book-icon-orange\ -\ 30x30\ v1.png
+cCpResource Practice1/siren.mp3 DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png Practice1/icon\ 80.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png Practice1/myfivelogo.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png Practice1/wrench-icon.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png Practice1/translucent.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png Practice1/user\ icon\ 2.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png Practice1/lock-icon.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png Practice1/magnify.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png Practice1/icon\ 120.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png Practice1/tada.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png Practice1/setting-icon-60x60v4.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png Practice1/audiomute.png
+cCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png Practice1/arrow.png
+cCompileStoryboard /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Images.xcassets
+cProcessInfoPlistFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Practice1-Info.plist
+cGenerateDSYMFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive
+cProcessProductPackaging /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision
+cTouch /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent
+cCodeSign /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c000000005282ECA10000000000000094
+t1384311969
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c000000005282ECA10000000000000096
+t1384311969
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005282ECA1000000000000036B
+t1384311969
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005282ECA100000000000001A0
+t1384311969
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005282ECA300000000006279A0
+t1384311971
+s6453664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c000000005282ECA200000000000D7720
+t1384311970
+s882464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005282ECA40000000000CF72E0
+t1384311972
+s13595360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005282ECA30000000000630EB0
+t1384311971
+s6491824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000005282ECA200000000001A1940
+t1384311970
+s1710400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005282ECA3000000000079BFE0
+t1384311971
+s7978976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005282ECA300000000004D63C0
+t1384311971
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005282ECA4000000000042AB80
+t1384311972
+s4369280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c000000005282ECA3000000000011EAB0
+t1384311971
+s1174192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005282ECA300000000002BDF10
+t1384311971
+s2875152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000005282ECA400000000002269C0
+t1384311972
+s2255296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005282ECA400000000003062A0
+t1384311972
+s3170976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005282ECA4000000000006F7F0
+t1384311972
+s456688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005282ECA50000000000A92BC0
+t1384311973
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+c000000005282ECA60000000000BF0E00
+t1384311974
+s12520960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005282ECA60000000000046ED0
+t1384311974
+s290512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005282ECA60000000000640E80
+t1384311974
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005282ECA6000000000017E0C0
+t1384311974
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005282ECAC00000000025A5AC0
+t1384311980
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005282ECB00000000000387B30
+t1384311984
+s3701552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+c000000005282ECB3000000000001D2B0
+t1384311987
+s119472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+c000000005282ECB3000000000054C820
+t1384311987
+s5556256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c000000005282ECB40000000000028490
+t1384311988
+s165008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005282ECB400000000000472B0
+t1384311988
+s291504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005282ECB4000000000003EB80
+t1384311988
+s256896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c000000005282ECB4000000000002AEE0
+t1384311988
+s175840
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005282ECB400000000000E2F20
+t1384311988
+s929568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005282ECB400000000000A1FC0
+t1384311988
+s663488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c000000005282ECB4000000000001E8A0
+t1384311988
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+c000000005282ECB4000000000000BF00
+t1384311988
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c000000005282ECB40000000000034100
+t1384311988
+s213248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c000000005282ECB40000000000022F30
+t1384311988
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c000000005282ECB4000000000001D1B0
+t1384311988
+s119216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005282ECB40000000000051110
+t1384311988
+s332048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005282ECB40000000000017E90
+t1384311988
+s97936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c000000005282ECB400000000001BA370
+t1384311988
+s1811312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005282ECB4000000000001EFF0
+t1384311988
+s126960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005282ECB4000000000002FA40
+t1384311988
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c000000005282ECB4000000000008B3E0
+t1384311988
+s570336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005282ECB400000000000B5FC0
+t1384311988
+s745408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c000000005282ECB40000000000078620
+t1384311988
+s493088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005282ECB40000000000060810
+t1384311988
+s395280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005282ECB400000000000B6B40
+t1384311988
+s748352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005282ECB40000000000039D00
+t1384311988
+s236800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005282ECB4000000000003E940
+t1384311988
+s256320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005282ECB4000000000002CF80
+t1384311988
+s184192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005282ECB4000000000001EB50
+t1384311988
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005282ECB4000000000001EDE0
+t1384311988
+s126432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c000000005282ECB400000000000213C0
+t1384311988
+s136128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005282ECB400000000000ADAC0
+t1384311988
+s711360
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005282ECEC0000000000000AC9
+t1384312044
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005282ECEC0000000000005004
+t1384312044
+s20484
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o
+t1393834949
+s106984
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o
+t1393834949
+s24756
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o
+t1393834949
+s74236
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o
+t1393834949
+s79088
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o
+t1393834949
+s69500
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o
+t1393834949
+s4024
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/myFive.LinkFileList
+c0000000053143BC5000000000000042F
+t1393834949
+s1071
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_dependencies.txt
+t1393834953
+s463
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_generated_info.plist
+t1393834953
+s525
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent
+t1393835283
+s387
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch
+t1393834949
+s87076
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+t1393835284
+s986
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM
+t1393834953
+s102
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Base.lproj/Main.storyboardc
+t1393834951
+s374
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange - 30x30 v1.png
+t1393834950
+s217
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist
+t1393834953
+s1274
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/PkgInfo
+t1393834953
+s8
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist
+t1393834949
+s150
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png
+t1393834950
+s3066
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png
+t1393834950
+s882
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision
+t1393834953
+s7464
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png
+t1393834950
+s871
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 120.png
+t1393834950
+s20373
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 58.png
+t1393834950
+s7788
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 80.png
+t1393834950
+s11099
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png
+t1393834950
+s2554
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png
+t1393834950
+s3385
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive
+t1393835284
+s123120
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png
+t1393834950
+s52574
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png
+t1393834950
+s3412
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png
+t1393834950
+s1283
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3
+t1393834950
+s52675
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png
+t1393834950
+s1944
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png
+t1393834950
+s347071
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png
+t1393834950
+s110567
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user icon 2.png
+t1393834950
+s3333
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png
+t1393834950
+s2596
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Base.lproj/Main.storyboard
+c0000000053143BC2000000000001013D
+t1393834946
+s65853
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Book-icon-orange - 30x30 v1.png
+c0000000052E9B01100000000000000D9
+t1391046673
+s217
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+c0000000052D089F80000000000000711
+t1389398520
+s1809
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.m
+c0000000052F044ED00000000000029C8
+t1391477997
+s10696
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Images.xcassets
+c00000000528FB55A0000000000000242
+t1385149786
+s578
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Practice1-Info.plist
+c0000000052F07D2700000000000004A3
+t1391492391
+s1187
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Practice1-Prefix.pch
+c0000000052855E6C0000000000000158
+t1384472172
+s344
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+c0000000052E9D9330000000000000334
+t1391057203
+s820
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.m
+c0000000052F044ED0000000000000235
+t1391477997
+s565
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+c0000000052E697BB00000000000004AE
+t1390843835
+s1198
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.m
+c0000000052F044ED0000000000000D9B
+t1391477997
+s3483
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+c0000000052E9AB75000000000000020F
+t1391045493
+s527
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.m
+c000000005312B2EE0000000000000DDC
+t1393734382
+s3548
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+c00000000530EF0A70000000000000203
+t1393488039
+s515
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.m
+c000000005312B2370000000000000C60
+t1393734199
+s3168
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/arrow.png
+c00000000528EB3DA0000000000000BED
+t1385083866
+s3053
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/audiomute.png
+c00000000528ECE6000000000000003BF
+t1385090656
+s959
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/hobo.png
+c00000000528ECC8900000000000002FA
+t1385090185
+s762
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/icon 120.png
+c0000000052F07883000000000000479B
+t1391491203
+s18331
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/icon 58.png
+c00000000528FB22A0000000000001BF6
+t1385148970
+s7158
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/icon 80.png
+c00000000528FB22A0000000000002555
+t1385148970
+s9557
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/lock-icon.png
+c0000000052E732DB0000000000000BE8
+t1390883547
+s3048
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/magnify.png
+c00000000528EB6D00000000000000C64
+t1385084624
+s3172
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/main.m
+c00000000528BF0C8000000000000014E
+t1384902856
+s334
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/myfivelogo.png
+c00000000528D7302000000000001B8B9
+t1385001730
+s112825
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/phone2.png
+c00000000528EB61E0000000000000C6C
+t1385084446
+s3180
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/setting-icon-60x60v4.png
+c0000000052E9B10D00000000000003FC
+t1391046925
+s1020
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/siren.mp3
+c00000000528ED23D000000000000CDC3
+t1385091645
+s52675
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/tada.png
+c00000000528ECD3B0000000000000750
+t1385090363
+s1872
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/translucent.png
+c00000000528EB0E8000000000002BBC8
+t1385083112
+s179144
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/translucent2.png
+c00000000528EB7320000000000013B38
+t1385084722
+s80696
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/user icon 2.png
+c00000000528EB6300000000000000C3C
+t1385084464
+s3132
+
+N/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/wrench-icon.png
+c0000000052E732E40000000000000D4A
+t1390883556
+s3402
+
+N/Users/appjam/Library/MobileDevice/Provisioning Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision
+c0000000052FAD7810000000000001D28
+t1392170881
+s7464
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/EditInfoViewController.m
+r0
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/User.m
+r0
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/ViewInfoViewController.m
+r0
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0AppDelegate.m
+r0
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0ViewController.m
+r0
+
+CBuild AST from /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc24c4b9874c4b841^edb64b9874c4b841^---0#1#1#--18"Check dependencies36"1A625939-5439-447B-8646-EE76AA89881D-
+
+CCodeSign /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+s415528083.985217
+e415528084.206746
+r1
+xCodeSign
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+o/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CodeSign DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app68"CodeSign DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app9066fc9374c4b841^d5ed349474c4b841^-147"/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@139"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/0000000000000000^1140"CodeSign DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Distribution: Evan Burke (H5J6T46J6R)" and provisioning profile "Evan Ad Hoc(Install)" (93993D82-D66A-48A2-9243-3E2363C68C8A)    codesign --force --sign 4DD4FA54E005FD0A3A2B0A432F0A5245218E2CEC --resource-rules=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist --entitlements /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app36"3C810C96-B792-45C3-B7FB-EF8B1EF0CE8F-
+b34C519E1-3781-4575-A440-29E440A7D1B4
+
+CCompileAssetCatalog /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Images.xcassets
+s415527750.337766
+e415527753.527223
+r1
+xCompileAssetCatalog
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Images.xcassets
+o2014-03-03 00:22:31.197 IBCocoaTouchImageCatalogTool[895:303] CFPreferences: user home directory at file:///Users/appjam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/LaunchImage-700-568h@2x.png
+o/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Assets.car
+o/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CompileAssetCatalog DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app Practice1/Images.xcassets105"CompileAssetCatalog DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app Practice1/Images.xcassetsab94564673c4b841^8cf8864973c4b841^-714"2014-03-03 00:22:31.197 IBCocoaTouchImageCatalogTool[895:303] CFPreferences: user home directory at file:///Users/appjam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/LaunchImage-700-568h@2x.png/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Assets.car/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/Images.xcassets/0000000000000000^1216"CompileAssetCatalog DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app Practice1/Images.xcassets    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_generated_info.plist --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Images.xcassets36"FA52915D-5B11-4647-833A-DF1495EE7EDE-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/EditInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/EditInfoViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/User.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/User.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/ViewInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/ViewInfoViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/_0AppDelegate.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/_0ViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/main.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/EditInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.613823
+e415527749.806189
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.m243"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o Practice1/EditInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler67489d4573c4b841^9962ce4573c4b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/EditInfoViewController.m0000000000000000^4116"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o Practice1/EditInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/EditInfoViewController.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o36"B952DD29-4878-40D4-9851-7B5917A72B6B-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/User.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.614021
+e415527749.689012
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.m207"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o Practice1/User.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7a539d4573c4b841^3963b04573c4b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/User.m0000000000000000^4008"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o Practice1/User.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/User.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o36"391B4472-9947-4EE8-A804-831575D98722-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/ViewInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.614024
+e415527749.782101
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.m243"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o Practice1/ViewInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere3529d4573c4b841^f837c84573c4b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/ViewInfoViewController.m0000000000000000^4116"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o Practice1/ViewInfoViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/ViewInfoViewController.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o36"34AAAD7F-21BE-474E-816D-E30671237743-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.691014
+e415527749.816413
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.m225"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o Practice1/_0AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5a0db14573c4b841^1502d14573c4b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/_0AppDelegate.m0000000000000000^4062"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o Practice1/_0AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0AppDelegate.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o36"3833DDC1-8D51-4ED1-AC1B-09CC6F4E976C-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.679444
+e415527749.809847
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.m231"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o Practice1/_0ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilereb19ae4573c4b841^eb52cf4573c4b841^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/_0ViewController.m0000000000000000^4080"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o Practice1/_0ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/_0ViewController.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o36"74955AAB-284D-4849-94AC-72C310C25559-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.613795
+e415527749.677478
+r1
+xCompileC
+xDerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/main.m
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0AppDelegate.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/ViewInfoViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/_0ViewController.h
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/EditInfoViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/main.m207"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o Practice1/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1f499d4573c4b841^8eafad4573c4b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/main.m0000000000000000^4008"CompileC DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o Practice1/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -include /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.dia -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/main.m -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o36"0A3011D0-E907-4700-A9CF-B087B6738EE5-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCompileStoryboard /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Base.lproj/Main.storyboard
+s415527750.314184
+e415527751.784356
+r1
+xCompileStoryboard
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Base.lproj/Main.storyboard
+o2014-03-03 00:22:31.058 Interface Builder Cocoa Touch Tool[894:303] CFPreferences: user home directory at file:///Users/appjam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CompileStoryboard Practice1/Base.lproj/Main.storyboard54"CompileStoryboard Practice1/Base.lproj/Main.storyboard938c504673c4b841^a3cec84773c4b841^-229"2014-03-03 00:22:31.058 Interface Builder Cocoa Touch Tool[894:303] CFPreferences: user home directory at file:///Users/appjam/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/Base.lproj/Main.storyboard0000000000000000^864"CompileStoryboard Practice1/Base.lproj/Main.storyboard    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Base.lproj/Main.storyboardc /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Base.lproj/Main.storyboard36"9E31AA41-479B-4CAF-B666-2F4C3A83E71D-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png Practice1/Book-icon-orange\ -\ 30x30\ v1.png
+s415527750.043019
+e415527750.076846
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange - 30x30 v1.png
+xPractice1/Book-icon-orange - 30x30 v1.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png Practice1/Book-icon-orange\ -\ 30x30\ v1.png151"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png Practice1/Book-icon-orange\ -\ 30x30\ v1.png4c1a0b4673c4b841^b8af134673c4b841^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/Book-icon-orange%20-%2030x30%20v1.png0000000000000000^777"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png Practice1/Book-icon-orange\ -\ 30x30\ v1.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Book-icon-orange\ -\ 30x30\ v1.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Book-icon-orange\ -\ 30x30\ v1.png36"09740664-77E1-4FE0-AA13-CC0CA59BC0E5-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png Practice1/arrow.png
+s415527750.308124
+e415527750.344000
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png
+xPractice1/arrow.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png Practice1/arrow.png101"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png Practice1/arrow.pngbef84e4673c4b841^e910584673c4b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/arrow.png0000000000000000^677"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png Practice1/arrow.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/arrow.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/arrow.png36"246F5F34-A6A7-49DB-BC78-B785AEB4D36F-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png Practice1/audiomute.png
+s415527750.299351
+e415527750.338460
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png
+xPractice1/audiomute.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png Practice1/audiomute.png109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png Practice1/audiomute.png73ba4c4673c4b841^3ba6564673c4b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/audiomute.png0000000000000000^693"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png Practice1/audiomute.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/audiomute.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/audiomute.png36"D9D82871-FBB4-4446-9636-1215CE5C074A-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png Practice1/hobo.png
+s415527749.996385
+e415527750.041200
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png
+xPractice1/hobo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png Practice1/hobo.png99"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png Practice1/hobo.pngb724ff4573c4b841^399b0a4673c4b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/hobo.png0000000000000000^673"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png Practice1/hobo.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/hobo.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/hobo.png36"B2C6A71C-C401-476F-BA28-1EEEE561FA74-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png Practice1/icon\ 120.png
+s415527750.251535
+e415527750.306756
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 120.png
+xPractice1/icon 120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png Practice1/icon\ 120.png109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png Practice1/icon\ 120.png747c404673c4b841^05884e4673c4b841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/icon%20120.png0000000000000000^693"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png Practice1/icon\ 120.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/icon\ 120.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 120.png36"C1ACD4E6-4627-4549-9986-308DF1A99F89-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png Practice1/icon\ 58.png
+s415527749.996172
+e415527750.046010
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 58.png
+xPractice1/icon 58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png Practice1/icon\ 58.png107"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png Practice1/icon\ 58.png261bff4573c4b841^d3f60b4673c4b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/icon%2058.png0000000000000000^689"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png Practice1/icon\ 58.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/icon\ 58.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 58.png36"6B71E43C-78A6-4201-A1E1-98209C627E17-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png Practice1/icon\ 80.png
+s415527750.047479
+e415527750.093911
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon 80.png
+xPractice1/icon 80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png Practice1/icon\ 80.png107"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png Practice1/icon\ 80.png423e0c4673c4b841^af21184673c4b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/icon%2080.png0000000000000000^689"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png Practice1/icon\ 80.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/icon\ 80.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/icon\ 80.png36"7C30EEC4-FC37-4735-8449-896EAF1E356E-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png Practice1/lock-icon.png
+s415527750.208628
+e415527750.292439
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png
+xPractice1/lock-icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png Practice1/lock-icon.png109"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png Practice1/lock-icon.pnga180354673c4b841^72df4a4673c4b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/lock-icon.png0000000000000000^693"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png Practice1/lock-icon.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/lock-icon.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/lock-icon.png36"8F9F8555-3AF3-480F-9900-B7F4C5ECA06D-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png Practice1/magnify.png
+s415527750.213083
+e415527750.250197
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png
+xPractice1/magnify.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png Practice1/magnify.png105"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png Practice1/magnify.png8ca3364673c4b841^800d404673c4b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/magnify.png0000000000000000^685"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png Practice1/magnify.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/magnify.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/magnify.png36"15893423-27E0-4179-9015-0CADDA444EAF-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png Practice1/myfivelogo.png
+s415527750.048484
+e415527750.207303
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png
+xPractice1/myfivelogo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png Practice1/myfivelogo.png111"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png Practice1/myfivelogo.pnga27d0c4673c4b841^8812354673c4b841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/myfivelogo.png0000000000000000^697"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png Practice1/myfivelogo.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/myfivelogo.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myfivelogo.png36"00A8E419-B3D1-4330-9170-554ABDA678C3-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png Practice1/phone2.png
+s415527749.996202
+e415527750.041808
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png
+xPractice1/phone2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png Practice1/phone2.png103"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png Practice1/phone2.pngac1bff4573c4b841^82e70a4673c4b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/phone2.png0000000000000000^681"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png Practice1/phone2.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/phone2.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/phone2.png36"8EFB54F0-BE40-4634-A7D6-8F31514A4DDE-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png Practice1/setting-icon-60x60v4.png
+s415527750.294120
+e415527750.336334
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png
+xPractice1/setting-icon-60x60v4.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png Practice1/setting-icon-60x60v4.png131"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png Practice1/setting-icon-60x60v4.pnge5634b4673c4b841^821a564673c4b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/setting-icon-60x60v4.png0000000000000000^737"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png Practice1/setting-icon-60x60v4.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/setting-icon-60x60v4.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/setting-icon-60x60v4.png36"F45A5A73-D1F4-4DA9-9A4E-1CD1FCBD23EF-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png Practice1/tada.png
+s415527750.256442
+e415527750.298035
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png
+xPractice1/tada.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png Practice1/tada.png99"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png Practice1/tada.pnga9bc414673c4b841^9d4c4c4673c4b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/tada.png0000000000000000^673"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png Practice1/tada.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/tada.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/tada.png36"3A1433DA-8319-4015-98FD-D21FE2007CDD-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png Practice1/translucent.png
+s415527750.095212
+e415527750.312454
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png
+xPractice1/translucent.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png Practice1/translucent.png113"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png Practice1/translucent.png6877184673c4b841^151e504673c4b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/translucent.png0000000000000000^701"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png Practice1/translucent.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/translucent.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent.png36"C03D9502-6747-443B-A978-5D683C2D9755-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png Practice1/translucent2.png
+s415527749.996171
+e415527750.255148
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png
+xPractice1/translucent2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png Practice1/translucent2.png115"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png Practice1/translucent2.pngd21aff4573c4b841^c651414673c4b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/translucent2.png0000000000000000^705"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png Practice1/translucent2.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/translucent2.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/translucent2.png36"D5C4E110-49BB-452F-A59B-E85591E268D7-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png Practice1/user\ icon\ 2.png
+s415527750.173717
+e415527750.211760
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user icon 2.png
+xPractice1/user icon 2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png Practice1/user\ icon\ 2.png117"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png Practice1/user\ icon\ 2.png93902c4673c4b841^b249364673c4b841^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/user%20icon%202.png0000000000000000^709"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png Practice1/user\ icon\ 2.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/user\ icon\ 2.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/user\ icon\ 2.png36"BC9D9CF6-3F66-4E0A-8000-8900F2DFD2C3-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCopyPNGFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png Practice1/wrench-icon.png
+s415527750.078170
+e415527750.172396
+r1
+xCopyPNGFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png
+xPractice1/wrench-icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png Practice1/wrench-icon.png113"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png Practice1/wrench-icon.png2e1c144673c4b841^ee222c4673c4b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/wrench-icon.png0000000000000000^701"CopyPNGFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png Practice1/wrench-icon.png    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/wrench-icon.png /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/wrench-icon.png36"6BE2C6E5-9CCA-4A9F-9F58-2A12A435F875-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist
+s415527749.491114
+e415527749.493623
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xDerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist212"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist60c97d4573c4b841^16847e4573c4b841^---0#0#1#-19%DVTDocumentLocation2@158"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist00386c7ddeffdf42^821"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app36"B7F6AEF9-3AB9-4D1A-94D5-FF1CF10A0F75-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCpResource Practice1/siren.mp3 DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3
+s415527750.043090
+e415527750.047049
+r1
+xCpResource
+xPractice1/siren.mp3
+xDerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3100"CpResource Practice1/siren.mp3 DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3ef1b0b4673c4b841^0f0c0c4673c4b841^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp300386c7ddeffdf42^667"CpResource Practice1/siren.mp3 DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/siren.mp3    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/siren.mp3 /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app36"1FB9AF95-4B38-4584-A205-E4B632842369-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CCreateUniversalBinary /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive normal armv7\ armv7s
+r0
+
+CGenerateDSYMFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive
+s415528088.310645
+e415528088.335838
+r1
+xGenerateDSYMFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generate /Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM148"GenerateDSYMFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive309c4f9874c4b841^cff9559874c4b841^---0#0#1#-19%DVTDocumentLocation2@144"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM/0000000000000000^758"GenerateDSYMFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app.dSYM36"3BD5A6E4-94CE-4036-9FF4-98422FFED5FC-
+b7F4B5F5F-CB68-4022-A58D-878F58A81FC5
+
+CLd /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7/myFive normal armv7
+r0
+
+CLd /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/myFive normal armv7s
+r0
+
+CLd /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive normal armv7s
+s415527749.825584
+e415527749.986827
+r1
+xLd
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive
+xnormal
+xarmv7s
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/myFive.LinkFileList
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/EditInfoViewController.o
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/main.o
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/User.o
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/ViewInfoViewController.o
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0ViewController.o
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/_0AppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive83"Ld DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive normal armv7sca6dd34573c4b841^5aa1fc4573c4b841^---0#0#1#--1558"Ld DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive normal armv7s    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos -filelist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/myFive.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreTelephony -framework AVFoundation -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/Objects-normal/armv7s/myFive_dependency_info.dat -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/myFive36"0D197C82-C9CF-406F-AE9A-0B8003B0706D-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CProcessInfoPlistFile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Practice1-Info.plist
+s415527753.536256
+e415527753.539761
+r1
+xProcessInfoPlistFile
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Practice1-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Process /Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Practice1-Info.plist122"ProcessInfoPlistFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist Practice1/Practice1-Info.plist815d894973c4b841^3c2e8a4973c4b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/Practice1-Info.plist0000000000000000^1185"ProcessInfoPlistFile DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist Practice1/Practice1-Info.plist    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Practice1-Info.plist -genpkginfo /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/ResourceRules.plist -additionalcontentfile /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/assetcatalog_generated_info.plist -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/Info.plist36"E80DBA2B-C6A0-401A-9B5D-11CD9D4334BA-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CProcessPCH /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-aoiiydaaeeamblbyoofngotblsgx/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415527749.503931
+e415527749.605351
+r1
+xProcessPCH
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch
+xPractice1/Practice1-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/appjam/Desktop/MyFive Working Version/myFive Real/Practice1/Practice1-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Practice1/Practice1-Prefix.pch240"ProcessPCH DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8522814573c4b841^dff89a4573c4b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/Practice1/Practice1-Prefix.pch0000000000000000^3915"ProcessPCH DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-generated-files.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-own-target-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-all-target-headers.hmap -iquote /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive-project-headers.hmap -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources/armv7s -I/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/DerivedSources -F/Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.dia -MMD -MT dependencies -MF /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.d -c /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/Practice1/Practice1-Prefix.pch -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/PrecompiledHeaders/Practice1-Prefix-fcuzyolofrjbeybkrayrimdziktd/Practice1-Prefix.pch.pch36"1AEB605F-0F35-46F5-9DD5-D3D5A36F814B-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CProcessPCH /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Index/PrecompiledHeaders/Practice1-Prefix-bystvkeazsidfvgkcgjjuswqtwky_ast/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Index/PrecompiledHeaders/Practice1-Prefix-fghcuedxnptxmggudjrnvsgflszi_ast/Practice1-Prefix.pch.pch Practice1/Practice1-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent
+s415528083.972991
+e415528083.975949
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection240"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent240"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcentd028f99374c4b841^51d8f99374c4b841^---0#0#1#-19%DVTDocumentLocation2@174"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent0000000000000000^837"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Intermediates/MyFive.build/Debug-iphoneos/Practice1.build/myFive.xcent36"4F141A3A-C1A4-4065-AD51-DCE5FC4AB562-
+b34C519E1-3781-4575-A440-29E440A7D1B4
+
+CProcessProductPackaging /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision
+s415527753.585953
+e415527753.588655
+r1
+xProcessProductPackaging
+x/Users/appjam/Library/MobileDevice/Provisioning Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision
+x/Users/appjam/Desktop/MyFive Working Version/myFive Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection219"ProcessProductPackaging /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision219"ProcessProductPackaging /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision3718964973c4b841^c0b2964973c4b841^---0#0#1#-19%DVTDocumentLocation2@163"file://localhost/Users/appjam/Desktop/MyFive%20Working%20Version/myFive%20Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision00386c7ddeffdf42^769"ProcessProductPackaging /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision    cd "/Users/appjam/Desktop/MyFive Working Version/myFive Real"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/appjam/Library/MobileDevice/Provisioning\ Profiles/93993D82-D66A-48A2-9243-3E2363C68C8A.mobileprovision -o /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app/embedded.mobileprovision36"9AAE50AC-B249-401F-BFCA-D2D52F2673DC-
+b28651509-B5FB-4095-9B22-003444DCADD1
+
+CTouch /Users/appjam/Desktop/MyFive\ Working\ Version/myFive\ Real/DerivedData/MyFive/Build/Products/Debug-iphoneos/myFive.app
+r0
+
